@@ -1,4 +1,4 @@
-# Assignment 1 - Pass the Pigs
+# Pass the Pigs [CSE 13S]
 This C program simulates a simplified version of the game "Pass the Pigs" with a given set of names for players. The user can input the number of players (between 2-10) they want to play, and a random seed value to randomize the positions for the pig. The program outputs the gameplay and winner. 
 
 ## Building
